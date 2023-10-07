@@ -6,7 +6,6 @@ import sys
 import math
 
 from actors import *
-from data import *
 
 pygame.init()
 
